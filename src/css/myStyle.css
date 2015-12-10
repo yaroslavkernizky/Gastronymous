@@ -346,6 +346,9 @@ input {
         display: inline-block;
         margin-right: -5px;
         float: left;
+    }
+
+    input::-webkit-search-cancel-button{
         -moz-appearance: none;
         -webkit-appearance: none;
     }
